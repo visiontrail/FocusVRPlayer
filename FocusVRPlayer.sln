@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FocusVRPlayer", "FocusVRPlayer.csproj", "{3049314B-44B6-4A2C-BDBE-BE491DBD68D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FocusVRPlayer.Plugins", "FocusVRPlayer.Plugins.csproj", "{D5E0992E-1C9D-1A83-1C1C-AA2C73E8D496}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FocusVRPlayer.Editor", "FocusVRPlayer.Editor.csproj", "{52BA85F4-4D23-71C7-437F-C14D6A2C8779}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3049314B-44B6-4A2C-BDBE-BE491DBD68D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3049314B-44B6-4A2C-BDBE-BE491DBD68D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3049314B-44B6-4A2C-BDBE-BE491DBD68D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3049314B-44B6-4A2C-BDBE-BE491DBD68D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5E0992E-1C9D-1A83-1C1C-AA2C73E8D496}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5E0992E-1C9D-1A83-1C1C-AA2C73E8D496}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5E0992E-1C9D-1A83-1C1C-AA2C73E8D496}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5E0992E-1C9D-1A83-1C1C-AA2C73E8D496}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52BA85F4-4D23-71C7-437F-C14D6A2C8779}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52BA85F4-4D23-71C7-437F-C14D6A2C8779}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52BA85F4-4D23-71C7-437F-C14D6A2C8779}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52BA85F4-4D23-71C7-437F-C14D6A2C8779}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
